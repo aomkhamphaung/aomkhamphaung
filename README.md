@@ -5,4 +5,3 @@
 - 💬 Ask me about laravel and how I've learnt through web development and how I've hunted job.
 - 📫 How to reach me: ✉ akhamphaung@gmail.com
 - 😄 Pronouns: Phaung/ Ah Phaung
-
