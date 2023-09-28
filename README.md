@@ -2,7 +2,7 @@
 👋 Hi there! I'm a passionate 19-year-old full-stack developer with a focus on Laravel and React. Currently, I'm honing my skills as a junior web developer, crafting innovative solutions and striving for excellence in every project. Let's build something awesome together! 💻🚀
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aomkhamphaung) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aom_kham_phaung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aomkhamphaung) 
 
 # 💻 Tech Stack:
